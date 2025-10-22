@@ -16,7 +16,7 @@ export default function GettingStarted({ links }) {
         <h2 className="text-3xl md:text-6xl font-bold mb-4">
           Getting Started With Printing
         </h2>
-        <p className="text-sm md:text-2xl mb-8 max-w-md">
+        <p className="text-sm md:text-2xl mb-8 max-w-2xl">
           Select the operating system from below options to start the right printer driver installation of your product.
         </p>
 

@@ -1,5 +1,5 @@
 .buttonHoverStyle{
-  display: none;
+  display: block;
 }
 
 
@@ -80,9 +80,7 @@ layer(base);
 .privacypolicy {
     color: #000;
 }
-.buttonHoverStyle{
-  display: none;
-}
+
 .privacypolicy p {
     margin: 14px 0;
 }
